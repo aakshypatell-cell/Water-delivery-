@@ -1,0 +1,6 @@
+{
+  "name": "Water Camper Delivery",
+  "description": "Daily water camper delivery tracking, customer management, monthly register, payments, and PDF/WhatsApp reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
